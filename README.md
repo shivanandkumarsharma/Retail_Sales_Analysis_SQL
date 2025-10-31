@@ -72,6 +72,6 @@ Retail_Sales_Analysis_SQL/
 
 ## 👨‍💻 Author
 **Shivanand Kumar**  
-Data Scientist | BI Enthusiast | SQL | Power BI | Python  
-📧 [your_email@example.com](mailto:your_email@example.com)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
+Data Scientist | SQL | Power BI | Python  
+📧 [shivanandkumarsharma3264@gmail.com]
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivanand-kumar-73bb87192/)
